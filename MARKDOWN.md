@@ -3,7 +3,7 @@
 These list of the code provided in the repository are soly for learning DSA course form Udemy. Not for any project
 
 
-## GitHub Repository Deleting link 
+<span style="color: green; font-size: 25px; font-family: 'Times New Roman', serif;">This is practical python for understanding how to define function, creat function and call a function</span>
 ----
 
 ```python
