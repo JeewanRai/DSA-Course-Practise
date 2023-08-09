@@ -2,7 +2,6 @@
 
 These list of the code provided in the repository are soly for learning DSA course form Udemy. Not for any project
 
-Python programming revisit class method 
 
 ## GitHub Repository Deleting link 
 ----
@@ -30,15 +29,4 @@ if __name__ == "__main__":
     user_enter = int(input("Enter number to repeat: "))
     print(user_enter * (message + "\n"))
 
-
 ```
----
-----
-# Git Cheetsheet links
----
-Link for mardkdown cheetsheet [Click Here](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet)
-
-----
-
-----
-s
