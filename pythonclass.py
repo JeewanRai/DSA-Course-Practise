@@ -25,6 +25,9 @@ class student:
 #calling_function = student()
 #calling_function.display()
 
+
+# anotehr method to call static variable before calling object of the call
+#student.company = "Druk Holding & Investment"
 #calfun = student('Jeewan', 1010, 94)
 #calfun1 = student('Sonam', 1012, 49)
 #calfun2 = student('Dorji', 1912, 82)
